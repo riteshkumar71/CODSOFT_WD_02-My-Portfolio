@@ -38,8 +38,8 @@ This is a personal portfolio website project built using **HTML** and **CSS**. I
 
 **Ritesh Kumar**  
 B.Tech CSE Graduate | Front-End Developer  
-📧 ritesh@example.com  
-📱 +91-12345-67890
+📧 riteshkumar1940@gmail.com  
+📱 +91-7564924728
 
 ---
 
